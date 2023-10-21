@@ -27,7 +27,7 @@ export default async function RootLayout({
             href='/'
             className='bg-gradient-to-r from-orange-400 via-red-500 to-purple-600 bg-clip-text text-transparent font-extrabold'
           >
-            Zach's Games
+            Zach&apos;s Games
           </Link>
 
           <div className='flex items-center gap-5 text-sm text-gray-600'>
